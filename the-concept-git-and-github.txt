@@ -1,0 +1,4 @@
+Git is a distributed version control system, it is a local VCS software that enables developers to save snapshots of their projects overtime.
+as a contrast to for example subversion that is centralized.
+Github is a web-based platform that incorporates git'sversion controlfeatures so they can be used collaboratively.
+it makes easier to collaborate using git.
